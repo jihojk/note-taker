@@ -14,4 +14,4 @@ This application writes, saves, and deletes notes. It uses an express backend an
 
 
 ## Link to Application
-https://jihojk.github.io/note-taker/
+https://note-takerjihojk.herokuapp.com/
