@@ -10,5 +10,8 @@ SO THAT I can organize my thoughts and keep track of tasks I need to complete
 This application writes, saves, and deletes notes. It uses an express backend and retrives and saves note data from a JSON file.
 
 ## Screenshot of Application
-![screenshot](/.png)
+![screenshot](/screenshot.png)
 
+
+## Link to Application
+https://jihojk.github.io/note-taker/
